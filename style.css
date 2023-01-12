@@ -1,0 +1,57 @@
+body{
+    background-image: url("background.jpg");
+    background-size: cover;
+    font-family: sans-serif;
+}
+
+#logo{
+    width: 20%;
+}
+
+h1{
+    color: #08dc04;
+    margin:10px;
+}
+
+#window{
+    text-align: center;
+    margin: 30px 350px 150px;
+    border-radius: 20px;
+    background-color: rgba(0, 0, 0, 0.432);
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+
+nav{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #08dc04;
+    margin: 0px 100px 0px;
+}
+
+main{
+    color: white;
+    text-align: left;
+    margin-left: 100px;
+}
+
+#carica1{
+    background-color: #f5b453;
+    border-radius: 5px;
+    width: 30%;
+    height: 25px;
+}
+
+#carica2{
+    background-color: #1ec31e;
+    border-radius: 5px;
+    width: 60%;
+    height: 25px;
+}
+
+#carica3{
+    background-color: #be4141;
+    border-radius: 5px;
+    width: 15%;
+    height: 25px;
+}
